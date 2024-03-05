@@ -6,7 +6,7 @@
 
 //A ideia agora, é trabalhar com aplicação fullstack
 
-
+//significado de MVC.
 //MVC => Padrão de projeto que separa as responsabilidades em 
 //Model VIEW e Controllers
 
